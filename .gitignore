@@ -1,12 +1,8 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
+#include <iostream>
 
-# Compiled Dynamic libraries
-*.so
+using namespace std;
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
+void main(){
+cout<<"Hello,world!"
+}
+;
